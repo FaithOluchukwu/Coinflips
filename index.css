@@ -18,7 +18,10 @@ body{
 button{
     padding: 1rem;
     background-color: skyblue;
+    cursor: pointer;
 }
+
+
 
 #coin{
     position: relative;

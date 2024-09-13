@@ -102,3 +102,8 @@ button{
     }
     
 }
+@media (max-width: 768px) {
+    .flipText {
+        display: none;
+    }
+}
